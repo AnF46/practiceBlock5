@@ -1,0 +1,4 @@
+Registered And Under Limit, 30, 1000, true
+Registered And Over Limit, 500, 1000000, true
+notRegisteredOverLimit, 10, 1000, false
+notRegisteredLimitNumberBorder, 5, 500, false
